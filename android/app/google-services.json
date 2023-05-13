@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248928186672",
+    "project_id": "breastia-a1daf",
+    "storage_bucket": "breastia-a1daf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248928186672:android:9d30e6b6694d8743ee58f5",
+        "android_client_info": {
+          "package_name": "com.example.breast_ia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248928186672-ihsbtcmgvv0n80rbovb16jrh5slnnmcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRBLDrSJkKiQXH_OqMOWMYugrA_tLLXng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248928186672-5jfsoa0n84acd74pt7ek2drasabeme4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
